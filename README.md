@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  🌐 <a href="https://www.evalancheclub.com/">Evalanche Club</a> | <a href="https://www.jainuniversity.ac.in/">Jain (Deemed-to-be University)</a>
+  🎓 <a href="https://www.evalancheclub.com/">Evalanche Club</a> | <a href="https://www.jainuniversity.ac.in/">Jain (Deemed-to-be University)</a>
 </p>
 
 <p align="left">
@@ -52,13 +52,35 @@
 </p>
 
 <p align="left">
+  🏆 Certifications:
+</p>
+<p align="left">
+  <a href="https://www.credly.com/badges/your-badge-id"><img src="https://img.shields.io/badge/Hands--on%20Linux%20for%20DevOps%20&%20Cloud%20Engineers-EC--Council-blue" alt="Hands-on Linux for DevOps & Cloud Engineers"></a>
+  <a href="https://www.credly.com/badges/your-badge-id"><img src="https://img.shields.io/badge/Networking%20Devices%20and%20Initial%20Configuration-Cisco-blue" alt="Networking Devices and Initial Configuration"></a>
+  <a href="https://www.credly.com/badges/your-badge-id"><img src="https://img.shields.io/badge/Recon%20for%20Pentesting%20&%20Bug%20Bounties-EC--Council-blue" alt="Recon for Pentesting & Bug Bounties"></a>
+  <a href="https://www.credly.com/badges/your-badge-id"><img src="https://img.shields.io/badge/Reverse%20Engineering%2C%20Memory%20Hacking%2C%20and%20Software%20Protection-EC--Council-blue" alt="Reverse Engineering, Memory Hacking, and Software Protection"></a>
+  <a href="https://www.credly.com/badges/your-badge-id"><img src="https://img.shields.io/badge/Web%20Application%20Security%20Testing%20with%20google%20hacking-EC--Council-blue" alt="Web Application Security Testing with google hacking"></a>
+  <a href="https://www.credly.com/badges/your-badge-id"><img src="https://img.shields.io/badge/Operating%20Systems%20Basics-Cisco-blue" alt="Operating Systems Basics"></a>
+  <a href="https://www.credly.com/badges/your-badge-id"><img src="https://img.shields.io/badge/Cyber%20Security%20And%20Applied%20Ethical%20Hacking-Infosys-blue" alt="Cyber Security And Applied Ethical Hacking"></a>
+  <a href="https://www.credly.com/badges/your-badge-id"><img src="https://img.shields.io/badge/Ethical%20Hacker%20(EH)-Cisco-blue" alt="Ethical Hacker (EH)"></a>
+  <a href="https://www.credly.com/badges/your-badge-id"><img src="https://img.shields.io/badge/Ethical%20Hacking%20Essentials%20(EHE)-EC--Council-blue" alt="Ethical Hacking Essentials (EHE)"></a>
+  <a href="https://www.credly.com/badges/your-badge-id"><img src="https://img.shields.io/badge/Ethical%20Hacking%20Project-scanning%20and%20enumeration%20target-Infosys-blue" alt="Ethical Hacking Project-scanning and enumeration target"></a>
+  <a href="https://www.credly.com/badges/your-badge-id"><img src="https://img.shields.io/badge/Tata%20Consultancy%20Services%20-%20Cybersecurity%20Analyst%20Job%20Simulation-Coursera-blue" alt="Tata Consultancy Services - Cybersecurity Analyst Job Simulation"></a>
+  <a href="https://www.credly.com/badges/your-badge-id"><img src="https://img.shields.io/badge/Become%20an%20Ethical%20Hacker-LinkedIn-blue" alt="Become an Ethical Hacker"></a>
+  <a href="https://www.credly.com/badges/your-badge-id"><img src="https://img.shields.io/badge/Ethical%20Hacking:%20Footprinting%20and%20Reconnaissance%20(2016)-LinkedIn-blue" alt="Ethical Hacking: Footprinting and Reconnaissance (2016)"></a>
+  <a href="https://www.credly.com/badges/your-badge-id"><img src="https://img.shields.io/badge/Ethical%20Hacking:%20Hacking%20Web%20Servers%20and%20Web%20Applications-LinkedIn-blue" alt="Ethical Hacking: Hacking Web Servers and Web Applications"></a>
+  <a href="https://www.credly.com/badges/your-badge-id"><img src="https://img.shields.io/badge/Ethical%20Hacking:%20Introduction%20to%20Ethical%20Hacking-LinkedIn-blue" alt="Ethical Hacking: Introduction to Ethical Hacking"></a>
+  <a href="https://www.credly.com/badges/your-badge-id"><img src="https://img.shields.io/badge/Foundations%20of%20Cybersecurity-Google-blue" alt="Foundations of Cybersecurity"></a>
+</p>
+
+<p align="left">
   💭 Fun fact: I love exploring new technologies and staying updated with the latest trends in cybersecurity.
 </p>
 
 <p align="left">
   <h3>📫 How to reach me:</h3>
   <a href="https://www.linkedin.com/in/s-razikur-rahman-414b64190/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your-rrazik487@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="left">
