@@ -1,5 +1,4 @@
 <h1 align="left">
-  <img src="https://avatars.githubusercontent.com/u/yourusername?v=4" alt="S Razikur Rahman" width="100" height="100" />
   S Razikur Rahman
 </h1>
 <h3 align="left">Electronics & Communication Engineer | Cybersecurity Enthusiast | Pentester</h3>
