@@ -82,5 +82,5 @@
 
 <p align="left">
   <h3>GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=rrazik487&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
