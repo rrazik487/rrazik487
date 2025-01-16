@@ -5,7 +5,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/s-razikur-rahman-304415235"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:rrazik487@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="left">
@@ -61,7 +61,7 @@
   <a href="https://www.credly.com/badges/your-badge-id"><img src="https://img.shields.io/badge/Web%20Application%20Security%20Testing%20with%20google%20hacking-EC--Council-blue" alt="Web Application Security Testing with google hacking"></a>
   <a href="https://www.credly.com/badges/your-badge-id"><img src="https://img.shields.io/badge/Operating%20Systems%20Basics-Cisco-blue" alt="Operating Systems Basics"></a>
   <a href="https://www.credly.com/badges/your-badge-id"><img src="https://img.shields.io/badge/Cyber%20Security%20And%20Applied%20Ethical%20Hacking-Infosys-blue" alt="Cyber Security And Applied Ethical Hacking"></a>
-  <a href="https://www.credly.com/badges/your-badge-id"><img src="https://img.shields.io/badge/Ethical%20Hacker%20(EH)-Cisco-blue" alt="Ethical Hacker (EH)"></a>
+  <a href="https://www.credly.com/badges/6d4679bb-06a8-45b6-92c6-8c515442f118/public_url"><img src="https://img.shields.io/badge/Ethical%20Hacker%20(EH)-Cisco-blue" alt="Ethical Hacker (EH)"></a>
   <a href="https://www.credly.com/badges/your-badge-id"><img src="https://img.shields.io/badge/Ethical%20Hacking%20Essentials%20(EHE)-EC--Council-blue" alt="Ethical Hacking Essentials (EHE)"></a>
   <a href="https://www.credly.com/badges/your-badge-id"><img src="https://img.shields.io/badge/Become%20an%20Ethical%20Hacker-LinkedIn-blue" alt="Become an Ethical Hacker"></a>
   <a href="https://www.credly.com/badges/your-badge-id"><img src="https://img.shields.io/badge/Ethical%20Hacking:%20Footprinting%20and%20Reconnaissance%20(2016)-LinkedIn-blue" alt="Ethical Hacking: Footprinting and Reconnaissance (2016)"></a>
