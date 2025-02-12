@@ -80,6 +80,12 @@
 </p>
 
 <p align="left">
-  <h3>GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=rrazik487&show_icons=true&theme=radical" alt="GitHub Stats">
+<br>
+<p align="center"><img width=390 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rrazik487&theme=2077" alt="readme stats" /></p>
+<br>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rrazik487&theme=2077  " alt="stats3"/></p>
+
+
+
+<be>
 </p>
