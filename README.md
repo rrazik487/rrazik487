@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  🎓 <a href="https://www.evalancheclub.com/">Evalanche Club</a> | <a href="https://www.jainuniversity.ac.in/">Jain (Deemed-to-be University)</a>
+  🎓 <a href="https://www.evalancheclub.in/">Evalanche Club</a> | <a href="https://www.jainuniversity.ac.in/">Jain (Deemed-to-be University)</a>
 </p>
 
 <p align="left">
