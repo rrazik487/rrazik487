@@ -77,7 +77,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rrazik487&show_icons=true&theme=tokyonight" alt="Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rrazik487&theme=tokyonight" alt="Streak Stats" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rrazik487&theme=tokyo-night&bg_color=00000000&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rrazik487&theme=tokyo-night&bg_color=00000000&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
