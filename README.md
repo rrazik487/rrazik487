@@ -6,6 +6,9 @@
     <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Website-razik.live-blueviolet?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Website">
   </a>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&center=true&vCenter=true&lines=Hello+%F0%9F%91%8B+I+am+S+Razikur+Rahman;Cybersecurity+Enthusiast+%F0%9F%95%B5%EF%B8%8F;Passionate+About+Hacking+and+Tech+%F0%9F%94%91;Welcome+to+My+GitHub+Terminal+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ---
 
