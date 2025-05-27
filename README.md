@@ -13,7 +13,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 🧑‍💻 Who Am I
 
 \`\`\`bash
 > Electronics & Communication Engineer
