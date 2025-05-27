@@ -53,7 +53,7 @@
 ---
 
 ### 🏅 Certifications
-> *(Hover on badges to see the cert titles)*  
+ 
 <p>
   <img src="https://img.shields.io/badge/Hands--on%20Linux%20for%20DevOps%20&%20Cloud%20Engineers-EC--Council-blue" />
   <img src="https://img.shields.io/badge/Networking%20Devices%20and%20Initial%20Configuration-Cisco-blue" />
