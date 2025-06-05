@@ -17,7 +17,7 @@
 
 ---
 
-### 🧑‍💻 Who Am I
+### 🧑‍💻 Whoami
 
 \`\`\`bash
 > Electronics & Communication Engineer
